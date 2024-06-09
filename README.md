@@ -1,4 +1,6 @@
-# pension-calculator-web
+# pension-calculator-web-aws
+
+See also: [Azure alternative](https://github.com/BenRamsden/pension-calculator-web-azure).
 
 <img src="./docs/images/pension_calculator_preview_11_04_2024.png" />
 
